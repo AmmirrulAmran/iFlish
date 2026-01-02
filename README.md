@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ammirrul AKA IFlish</h1>
+<h1 align="center">Hi 👋, I'm Ammirrul </h1>
 <h3 align="center">A Universiti Teknologi PETRONAS student studying in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iflish&label=Profile%20views&color=0e75b6&style=flat" alt="iflish" /> </p>
